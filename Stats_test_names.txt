@@ -1,29 +1,28 @@
 UNIT-2:
 1. Z-Test
-	Z-test: for one sample
-	Z-test: for two samples
-	Z-test: proportion test for one sample
-	Z-test: proportion test for two samples
-2. P-Test
-3. T-Test
-	t Test for Independent Samples
-	t Test for Dependent Samples
+	Z-test: for one sample (Y)
+	Z-test: for two samples (N)
+	Z-test: proportion test for one sample (N)
+	Z-test: proportion test for two samples (N)
+2. T-Test
+	t Test for Independent Samples (Y)
+	t Test for Dependent Samples (Paired Samples) (Y)
 
 UNIT-3:
-1. Run Test
-2. Sign Test - One sample
-3. Sign Test - Paired sample
-4. The Wilcoxon Rank Sum Test (or) Mann-Whitney U test
-5. The Wilcoxon Signed-rank Test
+1. Run Test (N)
+2. Sign Test - One sample (N)
+3. Sign Test - Paired sample (N)
+4. The Wilcoxon Rank Sum Test (or) Mann-Whitney U test (N)
+5. The Wilcoxon Signed-rank Test (N)
 
 UNIT-4:
-Chi Square Test
+Chi Square Test (N)
 	1. Test for Goodness
 	2. Test for Independence
 	3. Test for homogeneity
 	4. Yats Correction
 
-UNIT-5:
+UNIT-5: (N)
 1. Type-I error
 2. Type-II error
 3. estimation of sample size
