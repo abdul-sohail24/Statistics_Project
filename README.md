@@ -14,8 +14,6 @@ Contributors:
 
 5. Rayudu Mounika (19bcs124)
 
-GitHub Link to Project Repository: https://github.com/abdul-sohail24/Statistics_Dataset.git
-
 Abstract:
 
 All the Statistical Tests taught to us such as Chi-Square, T-Test, Wilcoxon Test, Estimation of Sample Size, etc. have been performed on the Dataset “T20WC (2007-2021)” using “IBM SPSS Statistics 26”. Each Test has been segregated in their respective UNIT Folder and each Test Folder contains:
