@@ -23,8 +23,7 @@ Chi Square Test (N)
 	4. Yats Correction
 
 UNIT-5: (N)
-1. Type-I error
-2. Type-II error
-3. estimation of sample size
+1. Type-II error
+2. estimation of sample size
 	i. one sample(one mean and one proportions)
 	ii. two samples(two mean and two proportions)
