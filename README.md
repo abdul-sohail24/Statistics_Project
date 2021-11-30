@@ -18,7 +18,7 @@ GitHub Link to Project Repository: https://github.com/abdul-sohail24/Statistics_
 
 Abstract:
 
-    	All the Statistical Tests taught to us such as Chi-Square, T-Test, Wilcoxon Test, Estimation of Sample Size, etc. have been performed on the Dataset “T20WC (2007-2021)” using “IBM SPSS Statistics 26”. Each Test has been segregated in their respective UNIT Folder and each Test Folder contains:
+All the Statistical Tests taught to us such as Chi-Square, T-Test, Wilcoxon Test, Estimation of Sample Size, etc. have been performed on the Dataset “T20WC (2007-2021)” using “IBM SPSS Statistics 26”. Each Test has been segregated in their respective UNIT Folder and each Test Folder contains:
 
 A) Dataset
 
@@ -26,7 +26,7 @@ B) SPSS Output
 
 C) Description/Report
 
-    The Report for each Test can be viewed in its Individual Folder as well as in the present Overall Report.
+The Report for each Test can be viewed in its Individual Folder as well as in the present Overall Report.
 
 Index
 
@@ -80,7 +80,7 @@ II) Two samples (two mean and two proportions)
 
 References
 
-ICC Men's T20 World Cup Cricket Team Records & Stats | ESPNcricinfo.com (For Dataset)
+https://stats.espncricinfo.com/ci/engine/records/batting/most_runs_career.html?id=89;type=trophy (For Dataset)
 
 PPTS provided to us by Ramesh Athe Sir in Google Classroom
 
