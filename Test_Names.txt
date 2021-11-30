@@ -1,0 +1,31 @@
+UNIT-2:
+
+1. Z-Test
+	Z-test for One sample 
+2. T-Test
+	T Test for One Sample
+	T Test for Two Independent Samples 
+	T Test for Two Dependent Samples (Paired Samples) 
+
+UNIT-3:
+
+1. Run Test 
+2. Sign Test - One sample 
+3. Sign Test - Paired sample 
+4. The Wilcoxon Rank Sum Test (or) Mann-Whitney U test 
+5. The Wilcoxon Signed-rank Test 
+
+UNIT-4:
+
+Chi Square Test 
+	1. Test for Goodness
+	2. Test for Independence
+	3. Test for homogeneity
+	4. Test for 2X2 Contingency Table
+
+UNIT-5: 
+
+1. Type-II error
+2. estimation of sample size
+	i. one sample(one mean and one proportions)
+	ii. two samples(two mean and two proportions)
